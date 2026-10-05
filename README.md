@@ -1,0 +1,2 @@
+Handwritten Digit Recognition
+Implemented a handwritten digit recognition system using HOG feature extraction and an SVM classifier to identify digits from image inputs, with an interactive Streamlit application for real-time prediction.
